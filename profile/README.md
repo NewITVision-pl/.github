@@ -23,7 +23,7 @@
 
 ### 🤝 Contact us
 [```🏢 NewITVision.pl - Home```](https://newitvision.pl) ×
-[```✉️ NewITVision.pl - Mail```](contact@newitvision.pl) ×
+[```✉️ NewITVision.pl - Mail```](mailto:contact@newitvision.pl) ×
 [```🔵 NewITVision.pl - Facebook```](https://www.facebook.com/newitvision/)
 
 <a href="https://dc.newitvision.pl"><img src="http://www.discord.com/api/guilds/1180928296301641841/widget.png?style=banner2"><a>
